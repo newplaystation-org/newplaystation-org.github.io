@@ -320,3 +320,11 @@ padding-top: 5px;
 	height: 100px;
 
 }
+.coment{
+	background-color: #F2F2F2;
+	width: 400px;
+	margin:0 auto;
+}
+.coment p{
+font-size: 18px;
+}
